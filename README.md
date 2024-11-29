@@ -1,4 +1,4 @@
-# Automatic-Detection-Of-Violent-Events-
+# EventGuard-
 
 The objective of our project is to detect in an automatic way, Violent Events in Video Streams. So how are we going to do this?
 
